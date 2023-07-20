@@ -19,6 +19,9 @@ Durante el desarrollo de este proyecto, he aprendido varias cosas importantes:
 
 3. **Responsividad:** He trabajado en hacer el sitio web responsivo, asegurándome de que se vea bien en diferentes tamaños de pantalla.
 
+## Cómo ver el proyecto
+
+Puedes ver el proyecto clon de la interfaz principal de Google ingresando a este enlace: https://clongooglewtshnadeath.netlify.app/
 
 ## Capturas de pantalla
 
